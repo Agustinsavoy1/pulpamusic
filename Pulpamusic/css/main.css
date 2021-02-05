@@ -1,0 +1,81 @@
+.header-video {
+
+    position: fixed;
+    z-index: -1;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    
+
+}
+
+.navbar-brand {
+    
+    color: white !important;
+
+}
+
+.nav-link {
+
+    color: white !important;
+
+}
+
+.card-container {
+
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.fa-glowbox {
+    width: 150px;
+    height: 150px;
+    background-color: #fff;
+
+    box-shadow: 120px 80px 40px 20px #0ff;
+
+
+}
+
+.footer {
+
+    background: transparent;
+    padding: 30px;
+}
+
+/*ICONOS FB INSTA SC*/
+.smedia {
+
+    
+    color: #fff;
+    font-size: 40px;
+    margin: 10px;
+    padding-top: 20px;
+    
+}
+
+.smedia i {
+
+    color: #fff;
+    font-size: 40px;
+    margin: 10px;
+    padding-top: 10px;
+
+}
+
+.smedia i:hover {
+
+    color: #456cba;
+    box-shadow: 0 0 0 0 #4267b2;
+    text-shadow: 0 0 0 0 #4267b2;
+}
+
+
+/* FEDE LEGUI PROFILE */
+
+
+
